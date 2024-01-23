@@ -1,6 +1,3 @@
-package HowManyCupsCanYouMake;
-
-
 import java.util.Scanner;
 
 public class Main {
